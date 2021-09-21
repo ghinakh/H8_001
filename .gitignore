@@ -4,3 +4,4 @@
 *.pyc
 
 config.yaml
+.london_crime_by_lsoa.csv
