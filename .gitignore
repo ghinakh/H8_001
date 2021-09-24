@@ -4,5 +4,5 @@
 *.pyc
 
 config.yaml
-*/.london_crime_by_lsoa.csv
-*/.PYTN_Assgn_1_1_Ghina Khoerunnisa.txt
+london_crime_by_lsoa.csv
+PYTN_Assgn_1_1_Ghina Khoerunnisa.txt
