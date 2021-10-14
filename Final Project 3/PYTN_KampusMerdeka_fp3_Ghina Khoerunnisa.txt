@@ -3,5 +3,10 @@ Almanik Balingga
 Muhammad Aziz Pratama
 Ghina Khoerunnisa
 
-link github : 
+link github : https://github.com/ghinakh/H8_001/tree/main/Final%20Project%203
+ - notebook : PYTN_KampusMerdeka_fp3_Ghina Khoerunnisa.ipynb
+ - source code web : H8FinalProj
+
 link website heroku : https://h8-model-finalproject.herokuapp.com/
+
+
