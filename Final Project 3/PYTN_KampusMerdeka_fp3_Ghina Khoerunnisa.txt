@@ -1,0 +1,7 @@
+Nama: 
+Almanik Balingga
+Muhammad Aziz Pratama
+Ghina Khoerunnisa
+
+link github : 
+link website heroku : https://h8-model-finalproject.herokuapp.com/
